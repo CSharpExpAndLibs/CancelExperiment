@@ -74,9 +74,6 @@ namespace CancelExperiment
             }
 
             // 何処か外部のクラスにmreを渡す操作を模擬
-            // 例えば、OnExecution()の中でManualResetEventを作成して対応するReplyListener class
-            // の設定IFを呼び出してリスナに教える。リスナは、送付したコマンドが完了したら
-            // このイベントを発火してOnExecution()の実行タスクに通知することが出来る。
             ManualResetEvent mre = new ManualResetEvent(false);
             SetMre(mre);
 
