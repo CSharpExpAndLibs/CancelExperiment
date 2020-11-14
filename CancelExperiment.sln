@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1082
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelExperiment", "CancelExperiment\CancelExperiment.csproj", "{77518FE0-8E01-4AC9-8B88-DCCD4A554120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThread", "UsingThread\UsingThread.csproj", "{4ED7A53E-E7C5-4C66-8B71-CF5E1EFE76DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{77518FE0-8E01-4AC9-8B88-DCCD4A554120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77518FE0-8E01-4AC9-8B88-DCCD4A554120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77518FE0-8E01-4AC9-8B88-DCCD4A554120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED7A53E-E7C5-4C66-8B71-CF5E1EFE76DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED7A53E-E7C5-4C66-8B71-CF5E1EFE76DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED7A53E-E7C5-4C66-8B71-CF5E1EFE76DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED7A53E-E7C5-4C66-8B71-CF5E1EFE76DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

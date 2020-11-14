@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{77518FE0-8E01-4AC9-8B88-DCCD4A554120}</ProjectGuid>
+    <ProjectGuid>{4ED7A53E-E7C5-4C66-8B71-CF5E1EFE76DB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CancelExperiment</RootNamespace>
-    <AssemblyName>CancelExperiment</AssemblyName>
+    <RootNamespace>UsingThread</RootNamespace>
+    <AssemblyName>UsingThread</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
